@@ -1,0 +1,19 @@
+{
+  "name": "redux-curd",
+  "version": "1.0.0",
+  "description": "基于redux和antd的后台管理系统",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nalantianyi/Redux-curd.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/nalantianyi/Redux-curd/issues"
+  },
+  "homepage": "https://github.com/nalantianyi/Redux-curd#readme"
+}
